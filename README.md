@@ -52,7 +52,7 @@ procrastination_analyzer/
 - PyTest  
 
 
-#▶️ Running the App
+###▶️ Running the App
 
 ### Locally
 

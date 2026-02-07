@@ -31,15 +31,18 @@ The idea behind this project is : timing and frequency of work often reveal usef
 4. A TF-IDF retrieval layer selects relevant suggestion snippets  
 5. Results are displayed in a Streamlit dashboard with charts and summaries  
 
-## Project Structure
+## 📁 Project Structure
+
+```
 procrastination_analyzer/
-├── analysis/ # pattern detection + scoring logic
-├── rag/ # snippet retrieval (TF-IDF)
-├── report/ # markdown report generation
-├── ui/ # streamlit app + visualizations
-├── data/ # sample dataset
-├── output/ # generated reports
-└── tests/ # basic pytest checks
+├── analysis/   # pattern detection + scoring logic
+├── rag/        # snippet retrieval (TF-IDF)
+├── report/     # markdown report generation
+├── ui/         # streamlit app + visualizations
+├── data/       # sample dataset
+├── output/     # generated reports
+└── tests/      # basic pytest checks
+```
 
 # Tech Stack
 - Python  

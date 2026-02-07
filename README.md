@@ -60,24 +60,29 @@ procrastination_analyzer/
 pip install -r requirements.txt
 streamlit run procrastination_analyzer/ui/app.py
 ```
-#On Google Colab
+### On Google Colab
 
 The app can also be run on Colab and exposed publicly using a cloudflared tunnel.
 
-⚠️ Note:
-This is an experimental, rule-based system and not a psychological diagnostic tool
-Scores are heuristic and meant for exploration
-Suggestion snippets were generated with AI assistance and curated for this project
+## ⚠️ Notes
 
-# Possible Improvements:
-ML-based prediction instead of heuristics
-User history tracking for better personalization
-More evaluation on real-world data
-Additional input sources (task logs, calendars, etc.)
+- This is an experimental, rule-based system and not a psychological diagnostic tool  
+- Scores are heuristic and meant for exploration  
+- Suggestion snippets were generated with AI assistance and curated for this project  
 
-⭐ Purpose
+##  Possible Improvements
+
+- ML-based prediction instead of heuristics  
+- User history tracking for better personalization  
+- More evaluation on real-world data  
+- Additional input sources (task logs, calendars, etc.)  
+
+
+##  Purpose
+
 Built as a learning project around:
-behavioral data analysis
-lightweight RAG systems
-building end-to-end data apps
+
+- behavioral data analysis  
+- lightweight RAG systems  
+- building end-to-end data apps  
 

@@ -1,0 +1,2202 @@
+[
+  {
+    "id": "s1",
+    "category": "environment",
+    "title": "Make starting automatic",
+    "text": "Keep a default workspace. Same place, same setup, less resistance.",
+    "tags": [
+      "environment",
+      "practical"
+    ]
+  },
+  {
+    "id": "s2",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "Try one 25-minute block and stop. Short blocks are easier to start when tired. Do it once today. Consistency comes later.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s3",
+    "category": "avoidance",
+    "title": "Make the task smaller",
+    "text": "Pick the smallest slice that still counts. Not 'finish the report'\u2014more like 'write headings + one messy paragraph'.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s4",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Guilt burns energy. Say: 'okay, next step now'\u2014then do two minutes. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s5",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "If evenings are low-energy, move thinking work earlier and keep evenings lighter. Do it once today. Consistency comes later.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s6",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "When you\u2019re drained, make the goal \u2018show up\u2019, not \u2018crush it\u2019. Do it once today. Consistency comes later.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s7",
+    "category": "avoidance",
+    "title": "Kill the perfection loop",
+    "text": "First pass is allowed to be ugly. Polish is a separate session. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s8",
+    "category": "avoidance",
+    "title": "Make the task smaller",
+    "text": "Start with a throwaway draft for 10 minutes. No polishing. You\u2019re proving you can begin. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s9",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Pick 3 outcomes for today. Too many goals turns into avoidance. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s10",
+    "category": "recovery",
+    "title": "Recover properly",
+    "text": "Take real breaks (no doomscrolling). A 5-minute walk resets attention better. Do it once today. Consistency comes later.",
+    "tags": [
+      "recovery",
+      "practical"
+    ]
+  },
+  {
+    "id": "s11",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Before starting: phone away, tabs closed, notifications off. Do it once today. Consistency comes later.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s12",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "When you\u2019re drained, make the goal \u2018show up\u2019, not \u2018crush it\u2019. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s13",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Use an if-then plan: IF it\u2019s 7pm, THEN one 25-minute block. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s14",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Use an if-then plan: IF it\u2019s 7pm, THEN one 25-minute block. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s15",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Write what done means before you begin: pages, slides, tests, or a commit. Do it once today. Consistency comes later.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s16",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Track starts, not hours. Frequency builds identity. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s17",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Never miss two days in a row. One miss happens; two becomes a pattern. Do it once today. Consistency comes later.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s18",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Treat this like an experiment. Change one variable for a week and observe. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s19",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Put the block on your calendar. If it\u2019s not scheduled, it becomes optional.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s20",
+    "category": "recovery",
+    "title": "Recover properly",
+    "text": "Hydration and food matter more than you think\u2014fix basics first. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "recovery",
+      "practical"
+    ]
+  },
+  {
+    "id": "s21",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Put the block on your calendar. If it\u2019s not scheduled, it becomes optional.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s22",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Attach work to an existing habit: after breakfast \u2192 10 minutes.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s23",
+    "category": "avoidance",
+    "title": "Kill the perfection loop",
+    "text": "Do one thing that makes the task less scary: outline, collect refs, make a TODO list. Do it once today. Consistency comes later.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s24",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Compress deadlines: draft earlier, polish later. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s25",
+    "category": "environment",
+    "title": "Make starting automatic",
+    "text": "Keep a default workspace. Same place, same setup, less resistance. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "environment",
+      "practical"
+    ]
+  },
+  {
+    "id": "s26",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Split into outline \u2192 draft \u2192 polish. Each step gets a mini-deadline.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s27",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Before starting: phone away, tabs closed, notifications off. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s28",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Treat this like an experiment. Change one variable for a week and observe.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s29",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Split into outline \u2192 draft \u2192 polish. Each step gets a mini-deadline. Do it once today. Consistency comes later.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s30",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Track starts, not hours. Frequency builds identity. Do it once today. Consistency comes later.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s31",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Track starts, not hours. Frequency builds identity. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s32",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Before starting: phone away, tabs closed, notifications off. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s33",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Pick 3 outcomes for today. Too many goals turns into avoidance. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s34",
+    "category": "avoidance",
+    "title": "Kill the perfection loop",
+    "text": "Do one thing that makes the task less scary: outline, collect refs, make a TODO list. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s35",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Never miss two days in a row. One miss happens; two becomes a pattern. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s36",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Lower the stakes: it\u2019s practice reps, not judgement. Do it once today. Consistency comes later.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s37",
+    "category": "environment",
+    "title": "Make starting automatic",
+    "text": "Put your phone out of reach. Distance beats discipline. Do it once today. Consistency comes later.",
+    "tags": [
+      "environment",
+      "practical"
+    ]
+  },
+  {
+    "id": "s38",
+    "category": "avoidance",
+    "title": "Kill the perfection loop",
+    "text": "Do one thing that makes the task less scary: outline, collect refs, make a TODO list. Do it once today. Consistency comes later.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s39",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Treat this like an experiment. Change one variable for a week and observe. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s40",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "When you\u2019re drained, make the goal \u2018show up\u2019, not \u2018crush it\u2019. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s41",
+    "category": "avoidance",
+    "title": "Make the task smaller",
+    "text": "Pick the smallest slice that still counts. Not 'finish the report'\u2014more like 'write headings + one messy paragraph'. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s42",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Put the block on your calendar. If it\u2019s not scheduled, it becomes optional. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s43",
+    "category": "avoidance",
+    "title": "Make the task smaller",
+    "text": "Pick the smallest slice that still counts. Not 'finish the report'\u2014more like 'write headings + one messy paragraph'. Do it once today. Consistency comes later.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s44",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Split into outline \u2192 draft \u2192 polish. Each step gets a mini-deadline. Do it once today. Consistency comes later.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s45",
+    "category": "avoidance",
+    "title": "Make the task smaller",
+    "text": "Pick the smallest slice that still counts. Not 'finish the report'\u2014more like 'write headings + one messy paragraph'. Do it once today. Consistency comes later.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s46",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Lower the stakes: it\u2019s practice reps, not judgement. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s47",
+    "category": "environment",
+    "title": "Make starting automatic",
+    "text": "Keep a default workspace. Same place, same setup, less resistance.",
+    "tags": [
+      "environment",
+      "practical"
+    ]
+  },
+  {
+    "id": "s48",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "Try one 25-minute block and stop. Short blocks are easier to start when tired. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s49",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Put the block on your calendar. If it\u2019s not scheduled, it becomes optional. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s50",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "When you\u2019re drained, make the goal \u2018show up\u2019, not \u2018crush it\u2019. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s51",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Compress deadlines: draft earlier, polish later.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s52",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Before starting: phone away, tabs closed, notifications off. Do it once today. Consistency comes later.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s53",
+    "category": "avoidance",
+    "title": "Kill the perfection loop",
+    "text": "Do one thing that makes the task less scary: outline, collect refs, make a TODO list.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s54",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Never miss two days in a row. One miss happens; two becomes a pattern. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s55",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Start with the easiest subtask. Momentum first, difficulty later. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s56",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Use the single-tab rule: one task open; everything else goes to a note. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s57",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Use the single-tab rule: one task open; everything else goes to a note.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s58",
+    "category": "avoidance",
+    "title": "Kill the perfection loop",
+    "text": "Aim for a B-minus draft today. A draft can be edited; a perfect idea can\u2019t. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s59",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Use the single-tab rule: one task open; everything else goes to a note. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s60",
+    "category": "environment",
+    "title": "Make starting automatic",
+    "text": "Prep tomorrow tonight: open the file, leave a note with the next step.",
+    "tags": [
+      "environment",
+      "practical"
+    ]
+  },
+  {
+    "id": "s61",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Before starting: phone away, tabs closed, notifications off. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s62",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Start with the easiest subtask. Momentum first, difficulty later. Do it once today. Consistency comes later.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s63",
+    "category": "avoidance",
+    "title": "Kill the perfection loop",
+    "text": "Do one thing that makes the task less scary: outline, collect refs, make a TODO list. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s64",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "Try one 25-minute block and stop. Short blocks are easier to start when tired. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s65",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Use an if-then plan: IF it\u2019s 7pm, THEN one 25-minute block. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s66",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "Try one 25-minute block and stop. Short blocks are easier to start when tired. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s67",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "If evenings are low-energy, move thinking work earlier and keep evenings lighter. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s68",
+    "category": "avoidance",
+    "title": "Make the task smaller",
+    "text": "If you feel stuck, the task is usually vague. Rewrite it as a physical next step. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s69",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Pick 3 outcomes for today. Too many goals turns into avoidance. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s70",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Write what done means before you begin: pages, slides, tests, or a commit.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s71",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "Try one 25-minute block and stop. Short blocks are easier to start when tired. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s72",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Use the single-tab rule: one task open; everything else goes to a note. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s73",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Attach work to an existing habit: after breakfast \u2192 10 minutes. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s74",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Never miss two days in a row. One miss happens; two becomes a pattern.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s75",
+    "category": "environment",
+    "title": "Make starting automatic",
+    "text": "Put your phone out of reach. Distance beats discipline. Do it once today. Consistency comes later.",
+    "tags": [
+      "environment",
+      "practical"
+    ]
+  },
+  {
+    "id": "s76",
+    "category": "recovery",
+    "title": "Recover properly",
+    "text": "Sleep drift causes procrastination drift. Protect bedtime like an appointment. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "recovery",
+      "practical"
+    ]
+  },
+  {
+    "id": "s77",
+    "category": "recovery",
+    "title": "Recover properly",
+    "text": "Sleep drift causes procrastination drift. Protect bedtime like an appointment. Do it once today. Consistency comes later.",
+    "tags": [
+      "recovery",
+      "practical"
+    ]
+  },
+  {
+    "id": "s78",
+    "category": "avoidance",
+    "title": "Kill the perfection loop",
+    "text": "First pass is allowed to be ugly. Polish is a separate session. Do it once today. Consistency comes later.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s79",
+    "category": "avoidance",
+    "title": "Make the task smaller",
+    "text": "Pick the smallest slice that still counts. Not 'finish the report'\u2014more like 'write headings + one messy paragraph'. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s80",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Compress deadlines: draft earlier, polish later.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s81",
+    "category": "environment",
+    "title": "Make starting automatic",
+    "text": "Prep tomorrow tonight: open the file, leave a note with the next step. Do it once today. Consistency comes later.",
+    "tags": [
+      "environment",
+      "practical"
+    ]
+  },
+  {
+    "id": "s82",
+    "category": "avoidance",
+    "title": "Make the task smaller",
+    "text": "Pick the smallest slice that still counts. Not 'finish the report'\u2014more like 'write headings + one messy paragraph'. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s83",
+    "category": "avoidance",
+    "title": "Make the task smaller",
+    "text": "If you feel stuck, the task is usually vague. Rewrite it as a physical next step. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s84",
+    "category": "recovery",
+    "title": "Recover properly",
+    "text": "Take real breaks (no doomscrolling). A 5-minute walk resets attention better. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "recovery",
+      "practical"
+    ]
+  },
+  {
+    "id": "s85",
+    "category": "environment",
+    "title": "Make starting automatic",
+    "text": "Put your phone out of reach. Distance beats discipline. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "environment",
+      "practical"
+    ]
+  },
+  {
+    "id": "s86",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Compress deadlines: draft earlier, polish later. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s87",
+    "category": "recovery",
+    "title": "Recover properly",
+    "text": "Sleep drift causes procrastination drift. Protect bedtime like an appointment. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "recovery",
+      "practical"
+    ]
+  },
+  {
+    "id": "s88",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Use an if-then plan: IF it\u2019s 7pm, THEN one 25-minute block.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s89",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Treat this like an experiment. Change one variable for a week and observe.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s90",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Before starting: phone away, tabs closed, notifications off. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s91",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Never miss two days in a row. One miss happens; two becomes a pattern. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s92",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Write what done means before you begin: pages, slides, tests, or a commit. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s93",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Use the single-tab rule: one task open; everything else goes to a note. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s94",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Write what done means before you begin: pages, slides, tests, or a commit. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s95",
+    "category": "recovery",
+    "title": "Recover properly",
+    "text": "Hydration and food matter more than you think\u2014fix basics first. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "recovery",
+      "practical"
+    ]
+  },
+  {
+    "id": "s96",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Use the single-tab rule: one task open; everything else goes to a note.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s97",
+    "category": "environment",
+    "title": "Make starting automatic",
+    "text": "Keep a default workspace. Same place, same setup, less resistance. Do it once today. Consistency comes later.",
+    "tags": [
+      "environment",
+      "practical"
+    ]
+  },
+  {
+    "id": "s98",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Compress deadlines: draft earlier, polish later.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s99",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Lower the stakes: it\u2019s practice reps, not judgement. Do it once today. Consistency comes later.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s100",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Never miss two days in a row. One miss happens; two becomes a pattern. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s101",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "Try one 25-minute block and stop. Short blocks are easier to start when tired. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s102",
+    "category": "avoidance",
+    "title": "Make the task smaller",
+    "text": "Start with a throwaway draft for 10 minutes. No polishing. You\u2019re proving you can begin. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s103",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Treat this like an experiment. Change one variable for a week and observe. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s104",
+    "category": "recovery",
+    "title": "Recover properly",
+    "text": "Sleep drift causes procrastination drift. Protect bedtime like an appointment. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "recovery",
+      "practical"
+    ]
+  },
+  {
+    "id": "s105",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "If evenings are low-energy, move thinking work earlier and keep evenings lighter. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s106",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Treat this like an experiment. Change one variable for a week and observe.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s107",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "If evenings are low-energy, move thinking work earlier and keep evenings lighter. Do it once today. Consistency comes later.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s108",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Use the single-tab rule: one task open; everything else goes to a note.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s109",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Use an if-then plan: IF it\u2019s 7pm, THEN one 25-minute block. Do it once today. Consistency comes later.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s110",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Lower the stakes: it\u2019s practice reps, not judgement. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s111",
+    "category": "avoidance",
+    "title": "Make the task smaller",
+    "text": "Pick the smallest slice that still counts. Not 'finish the report'\u2014more like 'write headings + one messy paragraph'. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s112",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Never miss two days in a row. One miss happens; two becomes a pattern. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s113",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Attach work to an existing habit: after breakfast \u2192 10 minutes. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s114",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Attach work to an existing habit: after breakfast \u2192 10 minutes. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s115",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Never miss two days in a row. One miss happens; two becomes a pattern. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s116",
+    "category": "avoidance",
+    "title": "Make the task smaller",
+    "text": "Pick the smallest slice that still counts. Not 'finish the report'\u2014more like 'write headings + one messy paragraph'. Do it once today. Consistency comes later.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s117",
+    "category": "recovery",
+    "title": "Recover properly",
+    "text": "Sleep drift causes procrastination drift. Protect bedtime like an appointment. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "recovery",
+      "practical"
+    ]
+  },
+  {
+    "id": "s118",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Before starting: phone away, tabs closed, notifications off. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s119",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Compress deadlines: draft earlier, polish later. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s120",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Use the single-tab rule: one task open; everything else goes to a note. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s121",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Split into outline \u2192 draft \u2192 polish. Each step gets a mini-deadline.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s122",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Write what done means before you begin: pages, slides, tests, or a commit. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s123",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Guilt burns energy. Say: 'okay, next step now'\u2014then do two minutes.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s124",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Lower the stakes: it\u2019s practice reps, not judgement. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s125",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Track starts, not hours. Frequency builds identity. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s126",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Split into outline \u2192 draft \u2192 polish. Each step gets a mini-deadline.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s127",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Track starts, not hours. Frequency builds identity. Do it once today. Consistency comes later.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s128",
+    "category": "environment",
+    "title": "Make starting automatic",
+    "text": "Prep tomorrow tonight: open the file, leave a note with the next step. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "environment",
+      "practical"
+    ]
+  },
+  {
+    "id": "s129",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Before starting: phone away, tabs closed, notifications off.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s130",
+    "category": "environment",
+    "title": "Make starting automatic",
+    "text": "Prep tomorrow tonight: open the file, leave a note with the next step. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "environment",
+      "practical"
+    ]
+  },
+  {
+    "id": "s131",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Never miss two days in a row. One miss happens; two becomes a pattern. Do it once today. Consistency comes later.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s132",
+    "category": "avoidance",
+    "title": "Make the task smaller",
+    "text": "Start with a throwaway draft for 10 minutes. No polishing. You\u2019re proving you can begin.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s133",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Pick 3 outcomes for today. Too many goals turns into avoidance.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s134",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Treat this like an experiment. Change one variable for a week and observe. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s135",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Start with the easiest subtask. Momentum first, difficulty later. Do it once today. Consistency comes later.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s136",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Split into outline \u2192 draft \u2192 polish. Each step gets a mini-deadline. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s137",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Pick 3 outcomes for today. Too many goals turns into avoidance. Do it once today. Consistency comes later.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s138",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Pick 3 outcomes for today. Too many goals turns into avoidance. Do it once today. Consistency comes later.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s139",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Lower the stakes: it\u2019s practice reps, not judgement. Do it once today. Consistency comes later.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s140",
+    "category": "avoidance",
+    "title": "Make the task smaller",
+    "text": "Pick the smallest slice that still counts. Not 'finish the report'\u2014more like 'write headings + one messy paragraph'.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s141",
+    "category": "avoidance",
+    "title": "Make the task smaller",
+    "text": "If you feel stuck, the task is usually vague. Rewrite it as a physical next step. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s142",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "Try one 25-minute block and stop. Short blocks are easier to start when tired. Do it once today. Consistency comes later.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s143",
+    "category": "avoidance",
+    "title": "Make the task smaller",
+    "text": "If you feel stuck, the task is usually vague. Rewrite it as a physical next step. Do it once today. Consistency comes later.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s144",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Use the single-tab rule: one task open; everything else goes to a note.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s145",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Compress deadlines: draft earlier, polish later. Do it once today. Consistency comes later.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s146",
+    "category": "recovery",
+    "title": "Recover properly",
+    "text": "Sleep drift causes procrastination drift. Protect bedtime like an appointment. Do it once today. Consistency comes later.",
+    "tags": [
+      "recovery",
+      "practical"
+    ]
+  },
+  {
+    "id": "s147",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "Try one 25-minute block and stop. Short blocks are easier to start when tired.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s148",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Attach work to an existing habit: after breakfast \u2192 10 minutes. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s149",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Use the single-tab rule: one task open; everything else goes to a note. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s150",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "When you\u2019re drained, make the goal \u2018show up\u2019, not \u2018crush it\u2019. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s151",
+    "category": "avoidance",
+    "title": "Make the task smaller",
+    "text": "Pick the smallest slice that still counts. Not 'finish the report'\u2014more like 'write headings + one messy paragraph'. Do it once today. Consistency comes later.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s152",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Split into outline \u2192 draft \u2192 polish. Each step gets a mini-deadline. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s153",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Split into outline \u2192 draft \u2192 polish. Each step gets a mini-deadline.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s154",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Compress deadlines: draft earlier, polish later.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s155",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Use the single-tab rule: one task open; everything else goes to a note. Do it once today. Consistency comes later.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s156",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Track starts, not hours. Frequency builds identity. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s157",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "Try one 25-minute block and stop. Short blocks are easier to start when tired.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s158",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Use an if-then plan: IF it\u2019s 7pm, THEN one 25-minute block. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s159",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "Try one 25-minute block and stop. Short blocks are easier to start when tired. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s160",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Before starting: phone away, tabs closed, notifications off. Do it once today. Consistency comes later.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s161",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "When you\u2019re drained, make the goal \u2018show up\u2019, not \u2018crush it\u2019. Do it once today. Consistency comes later.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s162",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Never miss two days in a row. One miss happens; two becomes a pattern. Do it once today. Consistency comes later.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s163",
+    "category": "recovery",
+    "title": "Recover properly",
+    "text": "Take real breaks (no doomscrolling). A 5-minute walk resets attention better. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "recovery",
+      "practical"
+    ]
+  },
+  {
+    "id": "s164",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Use the single-tab rule: one task open; everything else goes to a note. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s165",
+    "category": "avoidance",
+    "title": "Make the task smaller",
+    "text": "Pick the smallest slice that still counts. Not 'finish the report'\u2014more like 'write headings + one messy paragraph'. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s166",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Use an if-then plan: IF it\u2019s 7pm, THEN one 25-minute block. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s167",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Treat this like an experiment. Change one variable for a week and observe. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s168",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "If evenings are low-energy, move thinking work earlier and keep evenings lighter. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s169",
+    "category": "environment",
+    "title": "Make starting automatic",
+    "text": "Prep tomorrow tonight: open the file, leave a note with the next step. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "environment",
+      "practical"
+    ]
+  },
+  {
+    "id": "s170",
+    "category": "avoidance",
+    "title": "Kill the perfection loop",
+    "text": "Aim for a B-minus draft today. A draft can be edited; a perfect idea can\u2019t. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s171",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "Try one 25-minute block and stop. Short blocks are easier to start when tired. Do it once today. Consistency comes later.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s172",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "Try one 25-minute block and stop. Short blocks are easier to start when tired. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s173",
+    "category": "avoidance",
+    "title": "Kill the perfection loop",
+    "text": "First pass is allowed to be ugly. Polish is a separate session.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s174",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Never miss two days in a row. One miss happens; two becomes a pattern. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s175",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Guilt burns energy. Say: 'okay, next step now'\u2014then do two minutes. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s176",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Lower the stakes: it\u2019s practice reps, not judgement. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s177",
+    "category": "recovery",
+    "title": "Recover properly",
+    "text": "Sleep drift causes procrastination drift. Protect bedtime like an appointment.",
+    "tags": [
+      "recovery",
+      "practical"
+    ]
+  },
+  {
+    "id": "s178",
+    "category": "avoidance",
+    "title": "Kill the perfection loop",
+    "text": "Aim for a B-minus draft today. A draft can be edited; a perfect idea can\u2019t. Do it once today. Consistency comes later.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s179",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Split into outline \u2192 draft \u2192 polish. Each step gets a mini-deadline.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s180",
+    "category": "recovery",
+    "title": "Recover properly",
+    "text": "Take real breaks (no doomscrolling). A 5-minute walk resets attention better. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "recovery",
+      "practical"
+    ]
+  },
+  {
+    "id": "s181",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Treat this like an experiment. Change one variable for a week and observe. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s182",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Track starts, not hours. Frequency builds identity. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s183",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Attach work to an existing habit: after breakfast \u2192 10 minutes. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s184",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "When you\u2019re drained, make the goal \u2018show up\u2019, not \u2018crush it\u2019. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s185",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "When you\u2019re drained, make the goal \u2018show up\u2019, not \u2018crush it\u2019. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s186",
+    "category": "recovery",
+    "title": "Recover properly",
+    "text": "Hydration and food matter more than you think\u2014fix basics first. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "recovery",
+      "practical"
+    ]
+  },
+  {
+    "id": "s187",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Put the block on your calendar. If it\u2019s not scheduled, it becomes optional. Do it once today. Consistency comes later.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s188",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Before starting: phone away, tabs closed, notifications off. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s189",
+    "category": "environment",
+    "title": "Make starting automatic",
+    "text": "Keep a default workspace. Same place, same setup, less resistance. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "environment",
+      "practical"
+    ]
+  },
+  {
+    "id": "s190",
+    "category": "environment",
+    "title": "Make starting automatic",
+    "text": "Put your phone out of reach. Distance beats discipline. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "environment",
+      "practical"
+    ]
+  },
+  {
+    "id": "s191",
+    "category": "avoidance",
+    "title": "Kill the perfection loop",
+    "text": "Aim for a B-minus draft today. A draft can be edited; a perfect idea can\u2019t. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s192",
+    "category": "recovery",
+    "title": "Recover properly",
+    "text": "Hydration and food matter more than you think\u2014fix basics first. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "recovery",
+      "practical"
+    ]
+  },
+  {
+    "id": "s193",
+    "category": "environment",
+    "title": "Make starting automatic",
+    "text": "Keep a default workspace. Same place, same setup, less resistance. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "environment",
+      "practical"
+    ]
+  },
+  {
+    "id": "s194",
+    "category": "environment",
+    "title": "Make starting automatic",
+    "text": "Put your phone out of reach. Distance beats discipline. Do it once today. Consistency comes later.",
+    "tags": [
+      "environment",
+      "practical"
+    ]
+  },
+  {
+    "id": "s195",
+    "category": "recovery",
+    "title": "Recover properly",
+    "text": "Take real breaks (no doomscrolling). A 5-minute walk resets attention better. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "recovery",
+      "practical"
+    ]
+  },
+  {
+    "id": "s196",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Use the single-tab rule: one task open; everything else goes to a note. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s197",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Guilt burns energy. Say: 'okay, next step now'\u2014then do two minutes. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s198",
+    "category": "avoidance",
+    "title": "Kill the perfection loop",
+    "text": "Do one thing that makes the task less scary: outline, collect refs, make a TODO list. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "avoidance",
+      "practical"
+    ]
+  },
+  {
+    "id": "s199",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Put the block on your calendar. If it\u2019s not scheduled, it becomes optional. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s200",
+    "category": "recovery",
+    "title": "Recover properly",
+    "text": "Hydration and food matter more than you think\u2014fix basics first. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "recovery",
+      "practical"
+    ]
+  },
+  {
+    "id": "s201",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "If evenings are low-energy, move thinking work earlier and keep evenings lighter. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s202",
+    "category": "recovery",
+    "title": "Recover properly",
+    "text": "Sleep drift causes procrastination drift. Protect bedtime like an appointment. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "recovery",
+      "practical"
+    ]
+  },
+  {
+    "id": "s203",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "If evenings are low-energy, move thinking work earlier and keep evenings lighter. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s204",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Start with the easiest subtask. Momentum first, difficulty later. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s205",
+    "category": "planning",
+    "title": "Decide what \u2018done\u2019 means",
+    "text": "Pick 3 outcomes for today. Too many goals turns into avoidance. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "planning",
+      "practical"
+    ]
+  },
+  {
+    "id": "s206",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "If evenings are low-energy, move thinking work earlier and keep evenings lighter. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s207",
+    "category": "recovery",
+    "title": "Recover properly",
+    "text": "Hydration and food matter more than you think\u2014fix basics first. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "recovery",
+      "practical"
+    ]
+  },
+  {
+    "id": "s208",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Before starting: phone away, tabs closed, notifications off. Do it once today. Consistency comes later.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s209",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Track starts, not hours. Frequency builds identity. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s210",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Start with the easiest subtask. Momentum first, difficulty later. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s211",
+    "category": "recovery",
+    "title": "Recover properly",
+    "text": "Take real breaks (no doomscrolling). A 5-minute walk resets attention better. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "recovery",
+      "practical"
+    ]
+  },
+  {
+    "id": "s212",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Never miss two days in a row. One miss happens; two becomes a pattern. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s213",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Put the block on your calendar. If it\u2019s not scheduled, it becomes optional. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s214",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Use the single-tab rule: one task open; everything else goes to a note. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s215",
+    "category": "time_management",
+    "title": "Make time real",
+    "text": "Compress deadlines: draft earlier, polish later. Write the next step somewhere visible before you quit.",
+    "tags": [
+      "time_management",
+      "practical"
+    ]
+  },
+  {
+    "id": "s216",
+    "category": "mindset",
+    "title": "Reset without guilt",
+    "text": "Lower the stakes: it\u2019s practice reps, not judgement. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "mindset",
+      "practical"
+    ]
+  },
+  {
+    "id": "s217",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Use the single-tab rule: one task open; everything else goes to a note. Do it once today. Consistency comes later.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  },
+  {
+    "id": "s218",
+    "category": "fatigue",
+    "title": "Work with your energy",
+    "text": "Try one 25-minute block and stop. Short blocks are easier to start when tired. If it helps, set a 10-minute timer and stop on time.",
+    "tags": [
+      "fatigue",
+      "practical"
+    ]
+  },
+  {
+    "id": "s219",
+    "category": "habits",
+    "title": "Keep it consistent",
+    "text": "Never miss two days in a row. One miss happens; two becomes a pattern. Keep the goal embarrassingly small\u2014just enough to restart momentum.",
+    "tags": [
+      "habits",
+      "practical"
+    ]
+  },
+  {
+    "id": "s220",
+    "category": "focus",
+    "title": "Reduce distraction friction",
+    "text": "Use the single-tab rule: one task open; everything else goes to a note.",
+    "tags": [
+      "focus",
+      "practical"
+    ]
+  }
+]

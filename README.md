@@ -5,7 +5,7 @@ A small data-focused project that analyzes activity timestamps to spot procrasti
 The idea behind this project is : timing and frequency of work often reveal useful signals about productivity habits. This project explores how far those signals can go when turned into a lightweight analytics tool.
 
 
-#Features
+## Features
 
 - Detects procrastination patterns from timestamp logs  
 - Estimates next-day procrastination risk  
@@ -32,7 +32,7 @@ The idea behind this project is : timing and frequency of work often reveal usef
 5. Results are displayed in a Streamlit dashboard with charts and summaries  
 
 
-#📂 Project Structure
+### 📂 Project Structure
 procrastination_analyzer/
 ├── analysis/ # pattern detection + scoring logic
 ├── rag/ # snippet retrieval (TF-IDF)

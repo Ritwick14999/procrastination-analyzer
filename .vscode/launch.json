@@ -1,0 +1,39 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Streamlit: dashboard",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "streamlit",
+      "args": ["run", "src/procrastination_analyzer/ui/app.py"],
+      "console": "integratedTerminal",
+      "justMyCode": false
+    },
+    {
+      "name": "CLI: analyze sample data",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "procrastination_analyzer.cli",
+      "args": ["analyze", "src/procrastination_analyzer/data/sample_commits.csv"],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "CLI: evaluate models",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "procrastination_analyzer.cli",
+      "args": ["evaluate", "--patterns"],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "Pytest: current file",
+      "type": "debugpy",
+      "request": "launch",
+      "module": "pytest",
+      "args": ["${file}", "-v"],
+      "console": "integratedTerminal",
+      "justMyCode": false
+    }
+  ]
+}
